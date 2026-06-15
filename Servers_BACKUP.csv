@@ -1,0 +1,22 @@
+<<<<<<< HEAD
+ServerName
+google.com
+github.com
+microsoft.com
+cloudflare.com
+amazon.com
+openai.com
+reddit.com
+wikipedia.org
+notarealserver.mssa
+=======
+ServerName
+google.com
+github.com
+microsoft.com
+cloudflare.com
+openai.com
+reddit.com
+wikipedia.org
+fake-server-12345.com
+>>>>>>> 79f328db5dc903da5745aee6a2efd802a3cabd0e
